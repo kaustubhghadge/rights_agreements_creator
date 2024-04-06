@@ -1,0 +1,5 @@
+.vscode
+.venv
+myenv
+template.txt
+.DS_Store
